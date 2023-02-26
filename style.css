@@ -269,6 +269,7 @@ body{
   width : 35px;
   height : 35px;
   border : 2px solid #e2336b;
+  border-radius: 23px;
 }
 .post-img img{
   width : 27px;
